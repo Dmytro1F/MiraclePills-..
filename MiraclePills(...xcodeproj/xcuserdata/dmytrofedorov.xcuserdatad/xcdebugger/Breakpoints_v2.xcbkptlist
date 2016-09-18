@@ -10,13 +10,91 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MiraclePills(../ViewController.swift"
-            timestampString = "495792344.45081"
+            timestampString = "495858103.753808"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "51"
-            endingLineNumber = "51"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
             landmarkName = "pickerView(_:didSelectRow:inComponent:)"
             landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MiraclePills(../AppDelegate.swift"
+            timestampString = "495858650.84136"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiraclePills___.AppDelegate.__deallocating_deinit"
+                  moduleName = "MiraclePills(.."
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmytrofedorov/Desktop/MiraclePills(../MiraclePills(../AppDelegate.swift"
+                  timestampString = "495858650.852139"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiraclePills___.AppDelegate.init () -&gt; MiraclePills___.AppDelegate"
+                  moduleName = "MiraclePills(.."
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmytrofedorov/Desktop/MiraclePills(../MiraclePills(../AppDelegate.swift"
+                  timestampString = "495858650.856637"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MiraclePills___.AppDelegate.__allocating_init () -&gt; MiraclePills___.AppDelegate"
+                  moduleName = "MiraclePills(.."
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmytrofedorov/Desktop/MiraclePills(../MiraclePills(../AppDelegate.swift"
+                  timestampString = "495858650.858309"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "MiraclePills(.."
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmytrofedorov/Desktop/MiraclePills(../MiraclePills(../AppDelegate.swift"
+                  timestampString = "495858650.859559"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
