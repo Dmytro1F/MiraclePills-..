@@ -12,6 +12,7 @@
 		D78E08BD1D85A66200E7E948 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D78E08BB1D85A66200E7E948 /* Main.storyboard */; };
 		D78E08BF1D85A66200E7E948 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D78E08BE1D85A66200E7E948 /* Assets.xcassets */; };
 		D78E08C21D85A66200E7E948 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D78E08C01D85A66200E7E948 /* LaunchScreen.storyboard */; };
+		D7C190251D8F84B60074E0AC /* ScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C190241D8F84B60074E0AC /* ScrollView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D78E08BE1D85A66200E7E948 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D78E08C11D85A66200E7E948 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D78E08C31D85A66200E7E948 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D7C190241D8F84B60074E0AC /* ScrollView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScrollView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				D78E08B71D85A66200E7E948 /* AppDelegate.swift */,
 				D78E08B91D85A66200E7E948 /* ViewController.swift */,
 				D78E08BB1D85A66200E7E948 /* Main.storyboard */,
+				D7C190241D8F84B60074E0AC /* ScrollView.swift */,
 				D78E08BE1D85A66200E7E948 /* Assets.xcassets */,
 				D78E08C01D85A66200E7E948 /* LaunchScreen.storyboard */,
 				D78E08C31D85A66200E7E948 /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				D78E08BA1D85A66200E7E948 /* ViewController.swift in Sources */,
 				D78E08B81D85A66200E7E948 /* AppDelegate.swift in Sources */,
+				D7C190251D8F84B60074E0AC /* ScrollView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +303,7 @@
 				D78E08C81D85A66200E7E948 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
