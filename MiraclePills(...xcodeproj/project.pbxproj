@@ -299,7 +299,6 @@
 				D78E08C81D85A66200E7E948 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
