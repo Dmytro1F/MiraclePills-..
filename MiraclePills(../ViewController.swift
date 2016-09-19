@@ -13,6 +13,8 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
     @IBOutlet weak var statePicker: UIPickerView!
     @IBOutlet weak var statePickerBtn: UIButton!
     
+    @IBOutlet weak var SuccessBtn: UIButton!
+    
     @IBOutlet weak var countryLbl: UILabel!
     
     @IBOutlet weak var countryText: UITextField!
